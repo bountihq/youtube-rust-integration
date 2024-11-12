@@ -1,5 +1,7 @@
-# Summarizer
-Podcast and Youtube
+# Summary
+Youtube integration in rust forked from a public crate
+- relevant dependencies versions
+- handling of langs other than en
 
 # Setup
 - Install rust from https://www.rust-lang.org/tools/install if not present in the system.
